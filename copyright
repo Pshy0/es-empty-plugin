@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Empty Plugin
+Upstream-Contact: Pshy <Pshy0@users.noreply.github.com>
+Source: https://github.com/Pshy0/es-empty-plugin
+
+Files: *
+Copyright: Pshy <Pshy0@users.noreply.github.com>
+License: CC-BY-4.0
